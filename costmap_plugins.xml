@@ -1,0 +1,9 @@
+<class_libraries>
+
+<library path="lib/libsmartobstacle_layer">
+  <class type="costmap_2d::SmartobstacleLayer" base_class_type="costmap_2d::Layer">
+    <description>Clear the map every update</description>
+  </class>
+</library>
+
+</class_libraries>
